@@ -1,7 +1,8 @@
+🏠 Housing in Mexico Price Analysis
+
+Project Overview:
 This project analyzes 21,000+ residential property listings in Mexico sourced from Properati.com to answer a core real-estate and data-science question:
-
   Are housing prices influenced more by property size or by location?
-
 Using structured data analysis and exploratory techniques, the project investigates how these two factors relate to sale prices and which has a stronger impact.
 
 Objective
