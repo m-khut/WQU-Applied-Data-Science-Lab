@@ -24,6 +24,6 @@ Skills & Concepts Covered
 
 Lesson 1 — Predicting Price with Property Size
  - Focus:
-  - Understanding the relationship between **property size** and **price**
-  - Establishing a baseline feature for prediction
-  - Building intuition for modeling using a single strong variable
+   - Understanding the relationship between **property size** and **price**
+   - Establishing a baseline feature for prediction
+   - Building intuition for modeling using a single strong variable
