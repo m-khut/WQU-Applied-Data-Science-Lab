@@ -17,18 +17,16 @@ Tools & Technologies
 
 Repository Structure:
 
+```text
 ds-lab/
-│
 ├── project_01/
 │   └── README.md
-│
 ├── project_02/
 │   └── README.md
-│
 ├── project_03/
 │   └── ...
-│
 └── README.md  ← (this file)
+
 
 
 Each folder represents an overview of the standalone projects and what I was able to achieve by completind the assignments.
