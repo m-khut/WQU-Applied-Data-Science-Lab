@@ -35,25 +35,25 @@ Dataset
 Project Structure & Learning Flow
 
 Lesson 1: Organizing Tabular Data in Python
-  Focus:
+ - Focus:
    - Understanding tabular data
    - Working with basic Python data structures
    - Interpreting structured datasets
 
 Lesson 2 — Preparing Mexico Real Estate Data
-  Focus:
+ - Focus:
    - Importing CSV data using pandas
    - Cleaning missing and inconsistent values
    - Preparing data for analysis
 
 Lesson 3 — Exploratory Data Analysis (EDA)
-  Focus:
+ - Focus:
    - Visualizing distributions and relationships
    - Identifying patterns and outliers
    - Comparing price behavior across locations
 
 Lesson 5 - Size or Location: What Influences Prices?
-  Focus:
+ - Focus:
    - Correlation analysis between variables
    - Comparing impact of size vs location
    - Drawing data-driven conclusions
