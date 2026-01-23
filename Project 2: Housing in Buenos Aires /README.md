@@ -20,19 +20,18 @@ Skills & Concepts Covered
  - Predictive modeling fundamentals
  - Model evaluation and iteration
  - Notebook-based workflow (lesson → practice → assignment)
-
-
-Lesson 1 — Predicting Price with Property Size
- - Focus:
-   - Prepare Data
+ - Prepare Data
       - Import
       - Explore
       - Split
-   - Build Model
+ - Build Model
       - Baseline
       - Iterate
       - Evaluate
-   - Communicate Results
+ - Communicate Results
+
+Lesson 1 — Predicting Price with Property Size
+ - Focus:
    - Understanding the relationship between **property size** and **price**
    - Establishing a baseline feature for prediction
    - Work with feature (X) and train (y)
@@ -40,6 +39,7 @@ Lesson 1 — Predicting Price with Property Size
 
 Lesson 2 — Predicting Price with Property Location
  - Focus:
-   - Representing property location in a usable analytical format  
+   - Representing property location in a usable analytical format
+      - 3-D data plotting
    - Comparing prices across different neighborhoods or regions  
    - Evaluating how location improves price prediction accuracy 
