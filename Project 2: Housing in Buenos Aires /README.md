@@ -24,6 +24,15 @@ Skills & Concepts Covered
 
 Lesson 1 — Predicting Price with Property Size
  - Focus:
+   - Prepare Data
+      - Import
+      - Explore
+      - Split
+   - Build Model
+      - Baseline
+      - Iterate
+      - Evaluate
+   - Communicate Results
    - Understanding the relationship between **property size** and **price**
    - Establishing a baseline feature for prediction
    - Work with feature (X) and train (y)
