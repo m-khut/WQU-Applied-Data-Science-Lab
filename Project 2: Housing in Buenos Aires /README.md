@@ -15,6 +15,12 @@ Objective
 
 Skills & Concepts Covered
  - Data wrangling and preprocessing
+ - Libraries
+      - Numpy
+      - Pandas
+      - SciKit Learn
+      - Plotly
+      - 
  - Exploratory Data Analysis (EDA)
  - Feature/target relationships
  - Predictive modeling fundamentals
