@@ -49,9 +49,16 @@ Lesson 2: Predicting Price with Property Location
       - 3-D data plotting
    - Comparing prices across different neighborhoods or regions  
    - Evaluating how location improves price prediction accuracy
+   - Example graph
+   <img width="600" height="500" alt="newplot" src="https://github.com/user-attachments/assets/c53ccec8-1b0e-4985-bf50-8ea5449f95a5" />
+
   
 Lesson 3: Predicting Price with Property Neighborhood
  - Focus:
    - Handling categorical neighborhood features  
    - Encoding neighborhood information for modeling  
-   - Measuring how neighborhood-level detail improves predictions  
+   - Measuring how neighborhood-level detail improves predictions
+       - Ridge Regression
+   - Example graph
+     <img width="794" height="454" alt="image" src="https://github.com/user-attachments/assets/dc06469b-aead-4107-88f9-3c94a6028ba5" />
+
