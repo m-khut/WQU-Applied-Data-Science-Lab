@@ -21,6 +21,7 @@ Skills & Concepts Covered
       - SciKit-Learn
       - Plotly
       - Matplotlib
+      - Seaborn (for heatmap)
  - Exploratory Data Analysis (EDA)
  - Feature/target relationships
  - Predictive modeling fundamentals
