@@ -52,7 +52,6 @@ Lesson 2: Predicting Price with Property Location
    - Example graph
    <img width="600" height="500" alt="newplot" src="https://github.com/user-attachments/assets/c53ccec8-1b0e-4985-bf50-8ea5449f95a5" />
 
-  
 Lesson 3: Predicting Price with Property Neighborhood
  - Focus:
    - Handling categorical neighborhood features  
@@ -61,4 +60,11 @@ Lesson 3: Predicting Price with Property Neighborhood
        - Ridge Regression
    - Example graph
      <img width="794" height="454" alt="image" src="https://github.com/user-attachments/assets/dc06469b-aead-4107-88f9-3c94a6028ba5" />
+
+Lesson 4: Building a Comprehensive Price Prediction Model
+ - Focus:
+   - Combining multiple features (size, location, neighborhood) into a single model
+   - Handling categorical neighborhood features
+   - Encoding neighborhood information for modeling
+   - Measuring how neighborhood-level detail improves predictions
 
