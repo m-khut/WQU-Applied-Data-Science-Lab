@@ -1,1 +1,24 @@
 
+
+🌍 Air Quality Time Series Analysis (Africa)
+
+In this project, air quality data from **one of Africa’s largest open data platforms, OpenAfrica**, is used to analyze **PM2.5 pollution levels** in major African cities, including **Nairobi, Lagos, and Dar es Salaam**.
+
+Key areas of focus include:
+ - Working with real-world environmental time series data  
+ - Analyzing temporal trends and daily patterns in PM2.5 levels  
+ - Building and evaluating time series forecasting models  
+ - Interpreting predictions for urban air quality insights  
+
+Objective
+ - The project focuses on building **time series models** to predict PM2.5 readings throughout the day, with an emphasis on understanding temporal patterns in air pollution data.
+
+Skills & Concepts covered
+ - Data wrangling and preprocessing
+ - Libraries
+    - Numpy
+    - Pandas
+    - SciKit-Learn
+    - Plotly
+    - Matplotlib
+    - Seaborn (for heatmap)
