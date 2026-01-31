@@ -1,4 +1,4 @@
-
+<img width="564" height="163" alt="Screenshot 2026-01-31 094617" src="https://github.com/user-attachments/assets/c30bd812-e0d6-4f33-83e4-ab0c9f752725" />
 
 🌍 Air Quality Time Series Analysis (Africa)
 
