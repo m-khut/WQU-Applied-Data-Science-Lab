@@ -22,3 +22,9 @@ Skills & Concepts covered
     - Plotly
     - Matplotlib
     - Seaborn (for heatmap)
+  
+
+Lesson 1: Wrangling Data with MongoDB
+ - Focus
+   - Connect with the MongoDB data
+   - Data wrangling on Air Qaulity Data
