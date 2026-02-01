@@ -21,10 +21,20 @@ Skills & Concepts covered
     - SciKit-Learn
     - Plotly
     - Matplotlib
-    - Seaborn (for heatmap)
+    - PrettyPrinter
+    - pymongo
+ - Prepare Data
+    - Connect
+    - Explore
+    - Import
   
-
 Lesson 1: Wrangling Data with MongoDB
  - Focus
-   - Connect with the MongoDB data
-   - Data wrangling on Air Qaulity Data
+   - Connect with the MongoDB server for data
+   - Explore the database, wrangling and locate PM2.5 readings
+       - What's the data model for a MongoDB database?
+       - What's semi=structured data?
+       - How do you query a database using pymongo?
+   - Import database quary into DataFrame
+
+   
