@@ -23,6 +23,7 @@ Skills & Concepts covered
     - Matplotlib
     - PrettyPrinter
     - pymongo
+    - pytz
  - Workflow
     - Prepare Data
        - Connect
