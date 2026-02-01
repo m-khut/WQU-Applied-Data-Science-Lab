@@ -23,18 +23,30 @@ Skills & Concepts covered
     - Matplotlib
     - PrettyPrinter
     - pymongo
- - Prepare Data
-    - Connect
-    - Explore
-    - Import
-  
+ - Workflow
+    - Prepare Data
+       - Connect
+       - Explore
+       - Import
+    - Build Model
+       - Baseline
+       - Iterate
+       - Evaluate
+    - Communicate Results
+       - Time series plot with plotly express
+   
 Lesson 1: Wrangling Data with MongoDB
  - Focus
-   - Connect with the MongoDB server for data
-   - Explore the database, wrangling and locate PM2.5 readings
+    - Connect with the MongoDB server for data
+    - Explore the database, wrangling and locate PM2.5 readings
        - What's the data model for a MongoDB database?
        - What's semi=structured data?
        - How do you query a database using pymongo?
-   - Import database quary into DataFrame
+    - Import database quary into DataFrame
+
+Lesson 2: Linear Regression with Time Series Data
+ - Focus
+    - Prepare Time Series data
+    - Create a linear model to predict PM2.5 data
 
    
