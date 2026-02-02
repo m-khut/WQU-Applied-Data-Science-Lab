@@ -24,6 +24,7 @@ Skills & Concepts covered
     - PrettyPrinter
     - pymongo
     - pytz
+    - statsmodels
  - Workflow
     - Prepare Data
        - Connect
@@ -49,5 +50,11 @@ Lesson 2: Linear Regression with Time Series Data
  - Focus
     - Prepare Time Series data
     - Create a linear model to predict PM2.5 data
+  
+Lesson 3: Autoregressive Model
+ - Focus
+    - Create a autoregressive (AR) model to predict PMK2.5 levels.
+    - ACF and PACF plots
+    - Walk-forward validation
 
    
