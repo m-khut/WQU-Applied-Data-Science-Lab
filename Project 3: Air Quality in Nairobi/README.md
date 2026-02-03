@@ -45,12 +45,14 @@ Lesson 1: Wrangling Data with MongoDB
        - What's semi=structured data?
        - How do you query a database using pymongo?
     - Import database quary into DataFrame
+      
 
 Lesson 2: Linear Regression with Time Series Data
  - Focus
     - Prepare Time Series data
     - Create a linear model to predict PM2.5 data
-  
+  <img width="982" height="325" alt="image" src="https://github.com/user-attachments/assets/c1156c74-d3df-42ea-a6e7-ff391d2f38f0" />
+
 Lesson 3: Autoregressive Model
  - Focus
     - Create a autoregressive (AR) model to predict PMK2.5 levels.
