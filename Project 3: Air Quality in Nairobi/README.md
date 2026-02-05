@@ -58,5 +58,11 @@ Lesson 3: Autoregressive Model
     - Create a autoregressive (AR) model to predict PMK2.5 levels.
     - ACF and PACF plots
     - Walk-forward validation
+  
+Lesson 4: ARMA Models
+ - Focus:
+    - Autoregressive Moving Average models
+    - Turn model hyperparametes to improve performance
+    - Communicate the results
 
    
