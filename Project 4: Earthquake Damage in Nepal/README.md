@@ -3,7 +3,7 @@
 🏠 Mexico Real Estate Price Analysis  
 **Size vs Location — What Drives Property Prices?**
 
-This project analyzes **21,000+ residential property listings in Mexico** from Properati.com to answer:
+This project analyzes **21,000+ residential property listings in Mexico** in SQL type from Properati.com to answer:
 
 > Are housing prices influenced more by **property size** or by **location**?
 
